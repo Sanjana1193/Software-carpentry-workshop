@@ -9,3 +9,4 @@ Hotdogs!!
 -attend workshop
 -attend meetings
 -eat lunch
+-sleep

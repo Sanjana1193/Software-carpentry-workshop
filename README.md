@@ -1,5 +1,5 @@
 # Software-carpentry-workshop
-First project on software carpentry.
+First project on software carpentry.Nice software.
 Excited to learn about software carpntry.
 ## Weater today
 Today is a rainy day
